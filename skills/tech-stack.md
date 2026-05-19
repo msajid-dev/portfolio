@@ -22,9 +22,6 @@
 ## Real-Time
 - **WebSockets** · **Pusher** · **Laravel Echo**
 
-## Mobile
-- **Flutter / Dart** · **Firebase** (Auth, RTDB, Firestore, FCM)
-
 ## Payments & Integrations
 - Stripe · Mollie · JazzCash · Signhost (KYC/contracts)
 - WhatsApp API · SMS · Voice · Email (omni-channel)
