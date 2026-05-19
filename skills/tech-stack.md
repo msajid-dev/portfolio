@@ -3,41 +3,35 @@
 ## Backend
 - **Laravel** (6, 8, 9, 10, 11, 12) — primary framework
 - **PHP** 7.4 – 8.3
-- **Node.js** — APIs and real-time features
-- **MySQL / PostgreSQL** — relational databases
-- **Redis** — caching, queues, sessions
+- **Node.js**
+- **MySQL / PostgreSQL / Redis**
 - **REST API design** — versioning, auth, rate limiting
 
 ## Frontend
-- **React 18** — primary frontend framework
-- **Next.js** — SSR/SSG applications
+- **React 18 / 19**
+- **Next.js 16** — SSR/SSG
 - **TypeScript**
-- **Tailwind CSS**
-- **Bootstrap**
+- **Tailwind CSS · Bootstrap**
+
+## AI & Search
+- **OpenAI API** — GPT, Sora, embeddings
+- **Pinecone** — vector database, RAG pipelines
+- **FFmpeg** — automated media processing
+- **Yext** — content distribution
+
+## Real-Time
+- **WebSockets** · **Pusher** · **Laravel Echo**
 
 ## Mobile
-- **Flutter / Dart** — cross-platform iOS & Android
-- **Firebase** — Auth, Realtime DB, Firestore, FCM, Storage
+- **Flutter / Dart** · **Firebase** (Auth, RTDB, Firestore, FCM)
 
-## Authentication & Security
-- Laravel Sanctum, Passport, JWT
-- Role-based access control (RBAC)
-- OAuth2
+## Payments & Integrations
+- Stripe · Mollie · JazzCash · Signhost (KYC/contracts)
+- WhatsApp API · SMS · Voice · Email (omni-channel)
+- Affiliate networks: Daisycon, TradeTracker, TradeDoubler
 
 ## DevOps & Infrastructure
-- **Linux** (Ubuntu server administration)
-- **Nginx** — web server configuration
-- **Docker** — containerization
-- **Git / GitHub** — version control
-- **AWS** — EC2, S3, RDS
-
-## Integrations
-- Payment: JazzCash, Stripe, eCheck, custom gateways
-- Maps: Google Maps SDK
-- Notifications: Firebase Cloud Messaging
-- PDF: DomPDF, TCPDF
-- Email: SMTP, Mailgun
+- Linux (Ubuntu server admin) · Nginx · Docker · Git · AWS (EC2, S3, RDS)
 
 ## CMS & Platforms
-- WordPress (custom themes, plugins)
-- Perfex CRM (custom module development)
+- WordPress · Perfex CRM (custom module development)
