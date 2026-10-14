@@ -1,6 +1,8 @@
 # Muhammad Sajid — Portfolio
 
-Full Stack Developer with 8+ years building production systems across healthcare, eCommerce, travel, logistics, and finance.
+Full Stack Developer with 3+ years building production systems across healthcare, eCommerce, travel, logistics, and finance.
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-sajid-dev/)
 
 All client code is private (NDA). This repo contains architecture case studies for each project.
 
@@ -10,8 +12,8 @@ All client code is private (NDA). This repo contains architecture case studies f
 
 | Project | Domain | Stack |
 |---------|--------|-------|
-| [Medicare System](projects/medicare-system.md) | Healthcare | Laravel · React · Flutter |
-| [United Medical Urgent Care](projects/united-medical.md) | Healthcare | Laravel · React |
+| [Medicare System](projects/medicare-system.md) | Healthcare | Laravel · React |
+| [OpticureMedix](projects/united-medical.md) | Healthcare | Laravel · React |
 | [Softfinity B2B Travel](projects/softfinity-b2b-travel.md) | Travel | Laravel · Next.js · React |
 | [Nisar Jewellery](projects/nisar-jewellery.md) | eCommerce | Laravel · React |
 | [Manal Store](projects/manal-store.md) | eCommerce | Laravel 12 · React |
